@@ -121,3 +121,59 @@ readCar(cars);
 console.log('MENGHAPUS MOBIL Formula 1 Biru: \n')
 deleteCar(1);
 readCar(cars);
+
+/* OUTPUT
+SEMUA MOBIL : 
+
+Mobil Sport Ferrari Merah
+Mobil Dihidupkan
+Mobil Dimajukan
+Mobil Dimundurkan
+Mobil Dimatikan
+
+Mobil  Brio Kuning
+Mobil Dihidupkan
+Mobil Dimajukan
+Mobil Dimundurkan
+Mobil Dimatikan
+
+Mobil Sport Lamborghini Hijau
+Mobil Dihidupkan
+Mobil Dimajukan
+Mobil Dimundurkan
+Mobil Dimatikan
+
+MENGUBAH MOBIL Brio Kuning: 
+
+Mobil Sport Ferrari Merah
+Mobil Dihidupkan
+Mobil Dimajukan
+Mobil Dimundurkan
+Mobil Dimatikan
+
+Mobil Sport Formula 1 Biru
+Mobil Dihidupkan
+Mobil Dimajukan
+Mobil Dimundurkan
+Mobil Dimatikan
+
+Mobil Sport Lamborghini Hijau
+Mobil Dihidupkan
+Mobil Dimajukan
+Mobil Dimundurkan
+Mobil Dimatikan
+
+MENGHAPUS MOBIL Formula 1 Biru: 
+
+Mobil Sport Ferrari Merah
+Mobil Dihidupkan
+Mobil Dimajukan
+Mobil Dimundurkan
+Mobil Dimatikan
+
+Mobil Sport Lamborghini Hijau
+Mobil Dihidupkan
+Mobil Dimajukan
+Mobil Dimundurkan
+Mobil Dimatikan
+*/
